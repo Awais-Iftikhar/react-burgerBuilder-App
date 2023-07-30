@@ -1,0 +1,12 @@
+.Order{
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+    padding: 10px 20px;
+    box-shadow: 0 3px 2px #ccc;
+}
+.items{
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin: 0px 5px;
+}
